@@ -1,3 +1,5 @@
+# demonstraçao de como subir no github
+
 def calcular_imc(peso, altura):
     imc = peso / (altura ** 2)
     if imc < 18.5:
@@ -19,6 +21,5 @@ altura = float(input("Digite sua altura (m): "))
 
 # Saída
 print(calcular_imc(peso, altura))
-
 
 
